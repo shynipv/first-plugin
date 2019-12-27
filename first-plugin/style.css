@@ -1,0 +1,8 @@
+#timetable {
+    width: 56%;
+    float: left;
+    border-right: 1px solid black;
+  }
+  #lessons {
+      padding: 0 15px;
+}
